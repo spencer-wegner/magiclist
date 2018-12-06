@@ -4,7 +4,7 @@
 # Site settings
 title: Magic List
 description: A smart grocery list prototype
-owner: Spencer Wegner # or company name
+owner: Spencer Wegner & Will Norris # or company name
 first_published: 2018 # if migrating another site, the year of your first publish
 email: spencer.wegner@colorado.edu
 baseurl: "/magiclist" # the subpath of your site, e.g. /blog
